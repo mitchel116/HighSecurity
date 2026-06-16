@@ -342,319 +342,144 @@ By using HighSecurity Bot, you acknowledge that you have read and understood the
 ---------------------------------------------------------------
 
 
-HighSecurity Bot – Command Guide
-Complete Command Overview & Usage
+🔒 HighSecurity Bot
 
-🛡️ Administration Commands
-/setlogchannel
-Sets the channel where security logs are sent.
-Usage
-/setlogchannel #security-logs
-Example
-/setlogchannel #mod-logs
-The bot will send:
+HighSecurity Bot is an advanced security and moderation bot for Discord, developed and operated by NitroXHost. The bot is designed to protect communities of all sizes against spam, raids, malicious content, and abuse while remaining easy to configure through Discord slash commands.
 
+Whether you manage a small community or a large public server, HighSecurity Bot helps keep your members safe and moderation efficient.
 
-bans
+✨ Key Features
+🛡️ Advanced Anti-Spam Protection
 
+Automatically detects and prevents:
 
-mutes
+Message spam
+Repeated messages
+Mention spam
+Excessive capital letters
+🚫 Word Filter & Content Moderation
 
+Block unwanted words or phrases and choose custom punishments:
 
-spam detections
+Warning
+Mute
+Temporary Ban
+Permanent Ban
+🔗 Discord Invite Filtering
 
+Block unauthorized Discord invite links while allowing trusted invites through a whitelist.
 
-invite detections
+🖼️ Image Spam Protection
 
+Limit how many images users may send within a configurable time period.
 
-raid alerts
+😀 Emoji Spam Detection
 
-
-cross-server alerts
-
-
-
-/addadmin
-Adds a HighSecurity bot administrator.
-Usage
-/addadmin @User
-Example
-/addadmin @Moderator
-The user can now configure the bot without Discord Administrator permissions.
-
-/removeadmin
-Removes bot administrator access.
-Usage
-/removeadmin @User
-
-📷 Image Protection
-/setimagelimit
-Limits how many images users may send.
-Parameters
-ParameterExampleamount10window_minutes10punishmentmutepunishment_minutes10
-Example
-/setimagelimit amount:10 window_minutes:10 punishment:mute punishment_minutes:10
-Meaning
-Users may send:
-
-
-10 images
-
-
-within 10 minutes
-
-
-If they exceed the limit:
-→ muted for 10 minutes.
-
-/removeimagelimit
-Disables image protection.
-Usage
-/removeimagelimit
-
-💬 Anti-Spam Protection
-/setspam
-Configure anti-spam.
-Parameters
-ParameterExamplemax_messages5seconds10max_mentions5max_caps_percent80punishmentmutepunishment_minutes10
-Example
-/setspam max_messages:5 seconds:10 punishment:mute punishment_minutes:10
-Meaning
-If a user sends:
-
-
-more than 5 messages
-
-
-in 10 seconds
-
-
-they receive the configured punishment.
-
-/togglespam
-Enable or disable spam protection.
-Usage
-/togglespam enabled:true
-Disable:
-/togglespam enabled:false
-
-/removespam
-Disable anti-spam entirely.
-Usage
-/removespam
-
-😀 Emoji Protection
-/setemojilimit
-Limit emojis per message.
-Example
-/setemojilimit max_emojis:10 punishment:mute minutes:10
-Meaning
-Users may send up to:
-10 emojis per message
-More than 10:
-→ punishment is applied.
-
-/removeemojilimit
-Disable emoji protection.
-/removeemojilimit
+Prevent users from flooding channels with excessive emojis.
 
 🚨 Anti-Raid Protection
-/setraid
-Configure raid protection.
-Parameters
-ParameterExamplemax_joins10seconds30actionlockdown
-Example
-/setraid max_joins:10 seconds:30 action:lockdown
-Meaning
-If:
-10 users join within 30 seconds
-Bot performs:
 
+Detect mass join attacks and automatically respond with:
 
-log
+Logging
+Server Lockdown
+Kick
+Ban
+🔒 Automatic Server Lockdown
 
+Quickly secure your server during active raids and restore permissions afterward.
 
-lockdown
+👮 Moderation Tools
 
+Powerful moderation commands:
 
-kick
+Warn
+Mute
+Unmute
+Ban
+Unban
+Temporary Ban
+📊 User Moderation Statistics
 
+Track:
 
-ban
+Warnings
+Mutes
+Temporary Bans
+Permanent Bans
+📜 Advanced Logging System
 
+Log important moderation events including:
 
+Spam detections
+Bans
+Mutes
+Raid events
+Invite violations
+Security alerts
+🌍 Cross-Server Security Alerts
 
-/removeraid
-Disable anti-raid.
-/removeraid
+HighSecurity Bot can warn participating servers when a user has previously been banned on other HighSecurity servers.
 
-/unlockdown
-Restore server permissions after lockdown.
-/unlockdown
+Example:
 
-🚫 Word Filter
+"Previously banned on 2 other HighSecurity servers."
+
+For privacy reasons:
+
+Server names are never disclosed.
+Private messages are never stored or shared.
+👑 Custom Bot Administrators
+
+Assign trusted moderators to manage the bot without giving them full Discord Administrator permissions.
+
+💎 Premium Features
+
+Premium servers may receive access to additional features, future updates, and advanced security systems.
+
+🔧 Easy Configuration
+
+All features can be configured directly through Discord slash commands.
+
+No external dashboard or complicated setup is required.
+
+Examples:
+
+/setspam
+/setimagelimit
 /blockword
-Block a word.
-Example
-/blockword word:scam punishment:mute minutes:30
-If someone types:
-scam
-Bot punishes them.
+/setraid
+/setlogchannel
+🔐 Privacy & Security
 
-/removeword
-Remove blocked word.
-/removeword word:scam
+HighSecurity Bot only processes information necessary for moderation, security, and server configuration.
 
-🔗 Invite Protection
-/allowinvite
-Allow a Discord invite.
-Example
-/allowinvite invite:https://discord.gg/example
+The bot may process:
 
-/removeinvite
-Remove allowed invite.
-/removeinvite invite:discord.gg/example
+User IDs
+Server IDs
+Channel IDs
+Moderation events
+Security logs
 
-/setinvitepunishment
-Configure invite punishment.
-Example
-/setinvitepunishment punishment:mute minutes:10
+HighSecurity Bot:
 
-👮 Moderation Commands
-/warn
-Warn a user.
-/warn @User reason:Spam
+Does not sell personal data.
+Does not share private messages.
+Processes data in accordance with applicable privacy laws, including the GDPR (AVG) where applicable.
+🗑️ Data Retention
 
-/mute
-Timeout a user.
-/mute @User minutes:10 reason:Spam
+Server owners can request deletion of stored server data using:
 
-/unmute
-Remove timeout.
-/unmute @User reason:Appeal accepted
-
-/ban
-Permanently ban a user.
-/ban @User reason:Scam
-
-/tempban
-Temporary ban.
-/tempban @User minutes:1440 reason:Raid
-Example:
-1440 minutes = 1 day
-
-/unban
-Unban using User ID.
-Example
-/unban user_id:123456789012345678
-
-🌍 Cross-Server Security
-/globalalerts
-Enable or disable cross-server alerts.
-Enable
-/globalalerts enabled:true
-Disable
-/globalalerts enabled:false
-When enabled:
-If a user was banned on other HighSecurity servers, admins receive a warning.
-Example:
-Previously banned on 2 other HighSecurity servers.
-Server names remain private.
-
-/globalbancheck
-Check a member manually.
-/globalbancheck @User
-
-/globalbanremove
-Bot Owner Only
-Remove a user's global alert history.
-/globalbanremove user_id:123456789012345678
-Only works for:
-BOT_OWNER_ID=YOUR_DISCORD_ID
-
-👤 User Information
-/userinfo
-Display moderation history.
-/userinfo @User
-Shows:
-
-
-warnings
-
-
-mutes
-
-
-bans
-
-
-tempbans
-
-
-account creation date
-
-
-join date
-
-
-
-/resetuserstats
-Reset moderation statistics.
-/resetuserstats @User
-
-🗑️ Data Commands
 /deletedata
-Deletes all server data stored by the bot.
-/deletedata
-Deletes:
 
+Certain data may also be automatically removed after subscription expiration or extended inactivity periods.
 
-settings
+🌐 Developed by NitroXHost
 
+Need support or have questions?
 
-logs
+📧 Email: info@nitroxhost.com
+🌍 Jurisdiction: The Netherlands
 
-
-image counters
-
-
-spam counters
-
-
-moderation statistics
-
-
-Administrator only.
-
-📋 Available Punishments
-The following punishments can be selected:
-PunishmentDescriptionwarnWarning onlymuteTemporary timeouttempbanTemporary banbanPermanent ban
-
-🔒 Permissions Required
-The bot should have:
-
-
-Administrator or
-
-
-Manage Messages
-
-
-Moderate Members
-
-
-Ban Members
-
-
-Kick Members
-
-
-View Audit Log
-
-
-Manage Channels
-
-
-Bot role must be above member roles it moderates.
-
-This guide covers the current HighSecurity Bot version including anti-spam, anti-raid, moderation tools, and cross-server security alerts.
+Protect your Discord community with professional security powered by HighSecurity Bot.
