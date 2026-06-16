@@ -1,316 +1,660 @@
-HighSecurity Bot Privacy Policy
+HighSecurity Bot – Terms of Service (ToS)
+Last Updated: June 16, 2026
+These Terms of Service ("Terms") govern the use of the HighSecurity Bot ("Bot"), operated by NitroXHost.
+By inviting, installing, or using the Bot, you agree to these Terms.
+If you do not agree with these Terms, you must remove the Bot from your Discord server.
 
-HighSecurity Bot
-Operated by NitroXHost
-Contact: info@nitroxhost.com
-Jurisdiction: The Netherlands
-Last Updated: 15 June 2026
+1. Definitions
 
-1. Introduction
 
-This Privacy Policy explains how HighSecurity Bot collects, stores, processes, and protects data while providing moderation and security services for Discord servers.
+Bot: The HighSecurity Discord Bot.
 
-2. Data We Collect
 
-HighSecurity Bot may process and store the following data:
+User: Any person interacting with the Bot.
 
-Discord Guild IDs
-User IDs
-Channel IDs
-Role IDs
-Moderation history
-Warning counts
-Temporary bans and bans
-Server configuration settings
-Security and audit logs
-3. Direct Messages
 
-HighSecurity Bot does not intentionally collect or store Discord direct messages (DMs), unless explicitly required by a future feature and clearly disclosed.
+Server Owner: The owner or administrator of a Discord server using the Bot.
 
-4. Purpose of Processing
 
-Data is processed solely to provide:
+Service: All features and functionality provided by the Bot.
 
-Moderation services
-Anti-spam protection
-Anti-raid protection
-Logging systems
-Server configuration storage
-Security features
-5. Legal Basis (GDPR)
 
-Processing is based on:
 
-Legitimate interests
-Contractual necessity
-User consent where applicable
-6. Data Storage
+2. Purpose of the Bot
+HighSecurity Bot is designed to help protect Discord communities against:
 
-Data is stored using PostgreSQL databases with per-server isolation using guild_id.
 
-No server can access another server's data.
+Spam
 
-7. Security Measures
 
-NitroXHost implements:
+Raid attacks
 
-Database authentication
-Access control
-Infrastructure hardening
-Encrypted communication where applicable
-8. Data Retention
 
-Data may remain stored while the bot is present in a server.
+Scam links
 
-If the bot is removed or a subscription expires, data may be automatically deleted.
 
-9. User Rights
+Unauthorized invite links
 
-Users may request:
 
-Access to their data
-Correction of inaccurate data
-Deletion of applicable data
+Emoji spam
 
-Requests can be sent to:
 
-info@nitroxhost.com
+Harmful or blocked words
 
-10. Third Parties
 
-Discord provides the underlying platform and infrastructure.
+Suspicious user activity
 
-HighSecurity Bot does not sell personal data.
 
-11. International Transfers
+The Bot provides moderation and security tools to assist server administrators.
 
-Data may be processed on infrastructure located outside a user's country where legally permitted.
+3. Eligibility
+You must comply with:
 
-12. Changes
 
-This Privacy Policy may be updated at any time. Continued use of the service constitutes acceptance of the updated policy.
+Discord Terms of Service
 
-13. Contact
 
-Questions regarding privacy can be sent to:
+Discord Developer Policies
 
-info@nitroxhost.com
 
-HighSecurity Bot Terms of Service
+Applicable local laws and regulations
 
-HighSecurity Bot
-Operated by NitroXHost
 
-1. Acceptance
+The Bot may not be used for unlawful activities.
 
-By inviting or using HighSecurity Bot, you agree to these Terms of Service.
+4. Availability of Service
+We strive to keep the Bot online and operational at all times.
+However, we do not guarantee uninterrupted availability.
+Maintenance, updates, outages, or Discord API issues may temporarily affect service.
 
-2. Service Description
-
-HighSecurity Bot provides:
-
-Moderation tools
-Anti-spam protection
-Anti-raid protection
-Logging systems
-Security automation
-3. Acceptable Use
-
-Users may not:
-
-Abuse the bot
-Exploit vulnerabilities
-Use the service for illegal activities
-Attempt to bypass security features
-4. Moderation Actions
-
-The bot may automatically:
-
-Warn users
-Timeout users
-Temporarily ban users
-Permanently ban users
-
-Server administrators remain responsible for configuring moderation settings.
-
-5. Availability
-
-Service uptime is provided on a best-effort basis.
-
-Maintenance, outages, and interruptions may occur.
-
-6. Premium Features
-
+5. Subscription and Premium Features
 Certain features may require an active subscription.
-
-Premium access may be suspended or revoked if payment fails or a subscription expires.
-
-7. Subscription & Billing
-
-Subscriptions may renew automatically through Discord's subscription system.
-
-Failure to maintain an active subscription may result in loss of premium features and deletion of stored server data.
-
-8. Refunds
-
-Refunds are handled in accordance with applicable Dutch law and Discord policies.
-
-9. Suspension
-
-NitroXHost reserves the right to suspend or terminate access for abuse, fraud, or violations of these Terms.
-
-10. Intellectual Property
-
-All code, branding, logos, documentation, and software remain the property of NitroXHost.
-
-Unauthorized copying or redistribution is prohibited.
-
-11. Disclaimer of Warranties
-
-The service is provided "AS IS" and "AS AVAILABLE" without warranties of any kind.
-
-12. Limitation of Liability
-
-NitroXHost shall not be liable for indirect, incidental, or consequential damages arising from use of the service.
-
-13. Indemnification
-
-Users agree to indemnify and hold harmless NitroXHost from claims arising from misuse of the service.
-
-14. Governing Law
-
-These Terms shall be governed by the laws of The Netherlands.
-
-15. Contact
-
-Questions regarding these Terms may be sent to:
-
-info@nitroxhost.com
+If a subscription expires:
 
 
-🛡️ HighSecurity Bot
+Premium functionality may become unavailable.
 
-Advanced Discord Security & Moderation Bot
-Developed & operated by NitroXHost
 
-🔥 Main Features
-🚫 Anti-Spam Protection
-😀 Emoji Spam Detection
-🛡️ Anti-Raid Protection
-🔗 Invite Protection
-📝 Word Filter
-🖼️ Image Limits
-⚖️ Automatic Punishment Ladder
-📂 Advanced Logging
-👮 Moderation Commands
-📊 User Information & History
-⚙️ Setup Commands
+Stored server data may be scheduled for deletion after a grace period.
 
-Set log channel:
 
-/setlogchannel #logs
+Server owners are responsible for maintaining active subscriptions where required.
 
-Add bot admin:
+6. Server Administrator Responsibilities
+Server owners and administrators are responsible for:
 
-/addadmin @User
 
-Remove bot admin:
+Correctly configuring the Bot.
 
-/removeadmin @User
-🚫 Anti-Spam
 
-Configure spam protection:
+Assigning appropriate permissions.
 
-/setspam 5 10
 
-Disable:
+Reviewing moderation actions.
 
-/togglespam false
-😀 Emoji Spam
 
-Set emoji limit:
+Complying with privacy laws.
 
-/setemojilimit 10 mute 10
 
-Remove emoji protection:
+Moderation decisions remain the responsibility of the server staff.
 
-/removeemojilimit
-🖼️ Image Limits
+7. Prohibited Use
+Users may not use the Bot for:
 
+
+Illegal activities
+
+
+Harassment or discrimination
+
+
+Abuse of moderation systems
+
+
+Privacy violations
+
+
+Circumventing Discord policies
+
+
+Misuse may result in suspension or removal of access.
+
+8. Cross-Server Security Alerts
+When enabled, HighSecurity Bot may generate security alerts regarding users previously moderated on other HighSecurity servers.
 Example:
 
-/setimagelimit 10 10 mute 10
+"Previously banned on 2 other HighSecurity servers."
 
-Remove:
+To protect privacy:
+
+
+Server names are not disclosed.
+
+
+Private messages are never shared.
+
+
+Only moderation-related information is used.
+
+
+These alerts are intended solely for security purposes.
+
+9. Intellectual Property
+The HighSecurity Bot, its code, branding, and associated materials remain the property of NitroXHost unless otherwise specified.
+Unauthorized copying, resale, or redistribution is prohibited.
+
+10. Limitation of Liability
+NitroXHost and the developers of HighSecurity Bot shall not be liable for:
+
+
+Moderation errors
+
+
+Data loss
+
+
+Discord outages
+
+
+Misconfiguration by server administrators
+
+
+Damages arising from use of the Bot
+
+
+The Service is provided "as is" without warranties of any kind.
+
+11. Termination
+We reserve the right to suspend or terminate access to the Bot for:
+
+
+Abuse
+
+
+Violations of these Terms
+
+
+Illegal activities
+
+
+Actions that threaten the security or integrity of the Service
+
+
+
+12. Changes to Terms
+These Terms may be updated at any time.
+Continued use of the Bot after updates constitutes acceptance of the revised Terms.
+
+HighSecurity Bot – Privacy Policy
+Last Updated: June 16, 2026
+This Privacy Policy explains how HighSecurity Bot processes information.
+
+1. Data We Process
+The Bot may process the following data:
+Discord Information
+
+
+User IDs
+
+
+Guild (Server) IDs
+
+
+Channel IDs
+
+
+Role IDs
+
+
+Message IDs
+
+
+Moderation Data
+
+
+Warnings
+
+
+Mutes
+
+
+Temporary bans
+
+
+Permanent bans
+
+
+Security logs
+
+
+Configuration Data
+
+
+Server settings
+
+
+Anti-spam settings
+
+
+Anti-raid settings
+
+
+Log channel configuration
+
+
+Word filters
+
+
+Invite filters
+
+
+
+2. Message Processing
+The Bot may inspect message content solely for moderation purposes, including:
+
+
+Spam detection
+
+
+Invite detection
+
+
+Blocked word filtering
+
+
+Emoji limit enforcement
+
+
+Regular chat messages are not permanently stored unless required for moderation, security, or logging purposes.
+
+3. Cross-Server Security Alerts
+When a user is banned through HighSecurity Bot, a security record may be stored.
+Other participating servers may receive alerts such as:
+
+"Previously banned on 2 other HighSecurity servers."
+
+To protect privacy:
+
+
+Server names are hidden.
+
+
+Private messages are never stored.
+
+
+Only moderation events are processed.
+
+
+
+4. Data Retention
+Data is retained only as long as necessary for:
+
+
+Security
+
+
+Moderation
+
+
+Bot functionality
+
+
+Server owners may request deletion of their server data using:
+/deletedata
+Certain data may be automatically removed after subscription expiration or inactivity.
+
+5. Data Sharing
+We do not sell user data.
+We do not share personal data with third parties except where legally required.
+Information is used solely for operating and improving HighSecurity Bot.
+
+6. Security Measures
+We implement reasonable technical and organizational measures to protect stored information.
+However, no system can guarantee 100% security.
+
+7. User Rights (GDPR/Privacy Rights)
+Depending on applicable law, users or server owners may request:
+
+
+Access to stored data
+
+
+Correction of inaccurate data
+
+
+Deletion of server data
+
+
+Information regarding data processing
+
+
+
+8. Children's Privacy
+The Bot is not intended for users under the minimum age required by Discord's Terms of Service.
+
+9. Contact Information
+For support, privacy requests, or legal inquiries:
+NitroXHost
+HighSecurity Bot Support
+
+By using HighSecurity Bot, you acknowledge that you have read and understood these Terms of Service and Privacy Policy.
+
+
+
+
+HighSecurity Bot – Command Guide
+Complete Command Overview & Usage
+
+🛡️ Administration Commands
+/setlogchannel
+Sets the channel where security logs are sent.
+Usage
+/setlogchannel #security-logs
+Example
+/setlogchannel #mod-logs
+The bot will send:
+
+
+bans
+
+
+mutes
+
+
+spam detections
+
+
+invite detections
+
+
+raid alerts
+
+
+cross-server alerts
+
+
+
+/addadmin
+Adds a HighSecurity bot administrator.
+Usage
+/addadmin @User
+Example
+/addadmin @Moderator
+The user can now configure the bot without Discord Administrator permissions.
+
+/removeadmin
+Removes bot administrator access.
+Usage
+/removeadmin @User
+
+📷 Image Protection
+/setimagelimit
+Limits how many images users may send.
+Parameters
+ParameterExampleamount10window_minutes10punishmentmutepunishment_minutes10
+Example
+/setimagelimit amount:10 window_minutes:10 punishment:mute punishment_minutes:10
+Meaning
+Users may send:
+
+
+10 images
+
+
+within 10 minutes
+
+
+If they exceed the limit:
+→ muted for 10 minutes.
 
 /removeimagelimit
-🔗 Invite Protection
+Disables image protection.
+Usage
+/removeimagelimit
 
-Allow invite:
+💬 Anti-Spam Protection
+/setspam
+Configure anti-spam.
+Parameters
+ParameterExamplemax_messages5seconds10max_mentions5max_caps_percent80punishmentmutepunishment_minutes10
+Example
+/setspam max_messages:5 seconds:10 punishment:mute punishment_minutes:10
+Meaning
+If a user sends:
 
-/allowinvite discord.gg/example
 
-Remove invite:
+more than 5 messages
 
-/removeinvite CODE
-📝 Word Filter
 
-Block word:
+in 10 seconds
 
-/blockword scam mute 10
 
-Remove word:
+they receive the configured punishment.
 
-/removeword scam
-🚨 Anti-Raid
-
-Enable raid protection:
-
-/setraid 20 60 lockdown
-
+/togglespam
+Enable or disable spam protection.
+Usage
+/togglespam enabled:true
 Disable:
+/togglespam enabled:false
+
+/removespam
+Disable anti-spam entirely.
+Usage
+/removespam
+
+😀 Emoji Protection
+/setemojilimit
+Limit emojis per message.
+Example
+/setemojilimit max_emojis:10 punishment:mute minutes:10
+Meaning
+Users may send up to:
+10 emojis per message
+More than 10:
+→ punishment is applied.
+
+/removeemojilimit
+Disable emoji protection.
+/removeemojilimit
+
+🚨 Anti-Raid Protection
+/setraid
+Configure raid protection.
+Parameters
+ParameterExamplemax_joins10seconds30actionlockdown
+Example
+/setraid max_joins:10 seconds:30 action:lockdown
+Meaning
+If:
+10 users join within 30 seconds
+Bot performs:
+
+
+log
+
+
+lockdown
+
+
+kick
+
+
+ban
+
+
 
 /removeraid
-
-Unlock server:
+Disable anti-raid.
+/removeraid
 
 /unlockdown
-⚖️ Punishment Ladder
+Restore server permissions after lockdown.
+/unlockdown
 
+🚫 Word Filter
+/blockword
+Block a word.
+Example
+/blockword word:scam punishment:mute minutes:30
+If someone types:
+scam
+Bot punishes them.
+
+/removeword
+Remove blocked word.
+/removeword word:scam
+
+🔗 Invite Protection
+/allowinvite
+Allow a Discord invite.
+Example
+/allowinvite invite:https://discord.gg/example
+
+/removeinvite
+Remove allowed invite.
+/removeinvite invite:discord.gg/example
+
+/setinvitepunishment
+Configure invite punishment.
+Example
+/setinvitepunishment punishment:mute minutes:10
+
+👮 Moderation Commands
+/warn
+Warn a user.
+/warn @User reason:Spam
+
+/mute
+Timeout a user.
+/mute @User minutes:10 reason:Spam
+
+/unmute
+Remove timeout.
+/unmute @User reason:Appeal accepted
+
+/ban
+Permanently ban a user.
+/ban @User reason:Scam
+
+/tempban
+Temporary ban.
+/tempban @User minutes:1440 reason:Raid
 Example:
+1440 minutes = 1 day
 
-/setladder 1 warn
-/setladder 2 mute 10
-/setladder 3 tempban 60
-/setladder 4 ban
+/unban
+Unban using User ID.
+Example
+/unban user_id:123456789012345678
 
-Reset violations:
+🌍 Cross-Server Security
+/globalalerts
+Enable or disable cross-server alerts.
+Enable
+/globalalerts enabled:true
+Disable
+/globalalerts enabled:false
+When enabled:
+If a user was banned on other HighSecurity servers, admins receive a warning.
+Example:
+Previously banned on 2 other HighSecurity servers.
+Server names remain private.
 
-/resetviolations @User
-👮 Moderation
-/warn @User reason
-/mute @User 10 reason
-/tempban @User 60 reason
-/ban @User reason
-📊 User Info
+/globalbancheck
+Check a member manually.
+/globalbancheck @User
 
-View history:
+/globalbanremove
+Bot Owner Only
+Remove a user's global alert history.
+/globalbanremove user_id:123456789012345678
+Only works for:
+BOT_OWNER_ID=YOUR_DISCORD_ID
 
+👤 User Information
+/userinfo
+Display moderation history.
 /userinfo @User
+Shows:
 
-Reset stats:
 
-/ resetuserstats @User
-🗄️ Security
+warnings
 
-✅ PostgreSQL Database
-✅ Per-server Data Isolation (guild_id)
-✅ Sharding Support
-✅ Multi-VPS Ready
-✅ GDPR Friendly
 
-HighSecurity Bot keeps your Discord community safe, automated, and secure.
+mutes
 
-📧 Contact: info@nitroxhost.com
-🌍 The Netherlands
-© 2026 NitroXHost
+
+bans
+
+
+tempbans
+
+
+account creation date
+
+
+join date
+
+
+
+/resetuserstats
+Reset moderation statistics.
+/resetuserstats @User
+
+🗑️ Data Commands
+/deletedata
+Deletes all server data stored by the bot.
+/deletedata
+Deletes:
+
+
+settings
+
+
+logs
+
+
+image counters
+
+
+spam counters
+
+
+moderation statistics
+
+
+Administrator only.
+
+📋 Available Punishments
+The following punishments can be selected:
+PunishmentDescriptionwarnWarning onlymuteTemporary timeouttempbanTemporary banbanPermanent ban
+
+🔒 Permissions Required
+The bot should have:
+
+
+Administrator or
+
+
+Manage Messages
+
+
+Moderate Members
+
+
+Ban Members
+
+
+Kick Members
+
+
+View Audit Log
+
+
+Manage Channels
+
+
+Bot role must be above member roles it moderates.
+
+This guide covers the current HighSecurity Bot version including anti-spam, anti-raid, moderation tools, and cross-server security alerts.
