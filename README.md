@@ -339,7 +339,7 @@ HighSecurity Bot Support
 
 By using HighSecurity Bot, you acknowledge that you have read and understood these Terms of Service and Privacy Policy.
 
-
+---------------------------------------------------------------
 
 
 HighSecurity Bot – Command Guide
