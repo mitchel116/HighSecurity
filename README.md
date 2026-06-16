@@ -1,343 +1,109 @@
-HighSecurity Bot – Terms of Service (ToS)
+HighSecurity Bot – Terms of Service
+
 Last Updated: June 16, 2026
-These Terms of Service ("Terms") govern the use of the HighSecurity Bot ("Bot"), operated by NitroXHost.
+
+These Terms of Service ("Terms") govern the use of HighSecurity Bot ("the Bot"), developed and operated by NitroXHost.
+
 By inviting, installing, or using the Bot, you agree to these Terms.
-If you do not agree with these Terms, you must remove the Bot from your Discord server.
 
-1. Definitions
+1. Service Description
 
+HighSecurity Bot provides Discord moderation and security features including spam protection, raid protection, logging, content filtering, and cross-server security alerts.
 
-Bot: The HighSecurity Discord Bot.
+2. Acceptable Use
 
+Users may not use the Bot for illegal activities, harassment, abuse, privacy violations, or actions that violate Discord's Terms of Service.
 
-User: Any person interacting with the Bot.
+3. Availability
 
+The Bot is provided on an "as is" and "as available" basis. NitroXHost does not guarantee uninterrupted service and is not responsible for outages caused by Discord, hosting providers, or third parties.
 
-Server Owner: The owner or administrator of a Discord server using the Bot.
+4. Premium Services
 
+Certain features may require an active subscription. Premium access may be suspended or limited if payment is not received.
 
-Service: All features and functionality provided by the Bot.
+5. Price Changes
 
+NitroXHost reserves the right to modify subscription fees and pricing at any time when reasonably necessary due to increased operational costs, infrastructure expenses, inflation, new features, or changes in the service.
 
+Existing subscribers will be informed of material price changes in advance where required by applicable law. Continued use of the service after the effective date constitutes acceptance of the new pricing.
 
-2. Purpose of the Bot
-HighSecurity Bot is designed to help protect Discord communities against:
+6. Data Deletion
 
+Server owners may request deletion of stored server data using /deletedata. Data may also be automatically deleted after subscription expiration or prolonged inactivity.
 
-Spam
+7. Limitation of Liability
 
+NitroXHost shall not be liable for indirect damages, data loss, moderation decisions, or interruptions of service.
 
-Raid attacks
+8. Changes to Terms
 
+These Terms may be updated from time to time. Continued use of the Bot constitutes acceptance of the updated Terms.
 
-Scam links
+9. Governing Law
 
+These Terms are governed by the laws of The Netherlands.
 
-Unauthorized invite links
 
 
-Emoji spam
+---------------------------------------------------------------
+# HighSecurity Bot – Privacy Policy
 
+**Last Updated:** June 16, 2026
 
-Harmful or blocked words
+HighSecurity Bot respects user privacy and processes only data necessary for moderation and security purposes.
 
+## 1. Information We Process
 
-Suspicious user activity
+The Bot may process:
 
+* Discord User IDs
+* Server (Guild) IDs
+* Channel IDs
+* Role IDs
+* Moderation actions
+* Security logs
+* Server configuration settings
 
-The Bot provides moderation and security tools to assist server administrators.
+## 2. Message Processing
 
-3. Eligibility
-You must comply with:
+Messages may be temporarily analyzed for moderation purposes, including spam detection, invite filtering, emoji limits, image limits, and blocked word detection.
 
+Regular chat messages are not permanently stored unless required for security or logging.
 
-Discord Terms of Service
+## 3. Cross-Server Security Alerts
 
+When enabled, moderation events may generate privacy-friendly security alerts across participating HighSecurity servers.
 
-Discord Developer Policies
+Server names and private messages are never shared.
 
+## 4. Data Retention
 
-Applicable local laws and regulations
+Data is retained only as long as necessary for moderation, security, and operation of the Bot.
 
+Server owners may delete their server data using `/deletedata`.
 
-The Bot may not be used for unlawful activities.
+## 5. Data Sharing
 
-4. Availability of Service
-We strive to keep the Bot online and operational at all times.
-However, we do not guarantee uninterrupted availability.
-Maintenance, updates, outages, or Discord API issues may temporarily affect service.
+NitroXHost does not sell personal data to third parties.
 
-5. Subscription and Premium Features
-Certain features may require an active subscription.
-If a subscription expires:
+Data is only disclosed where legally required.
 
+## 6. Security
 
-Premium functionality may become unavailable.
+Reasonable technical and organizational measures are implemented to protect stored data. However, no system can guarantee absolute security.
 
+## 7. User Rights
 
-Stored server data may be scheduled for deletion after a grace period.
+Users may have rights under applicable privacy laws, including the GDPR, such as access, correction, or deletion of data.
 
+## 8. Contact
 
-Server owners are responsible for maintaining active subscriptions where required.
+For support or privacy requests:
 
-6. Server Administrator Responsibilities
-Server owners and administrators are responsible for:
-
-
-Correctly configuring the Bot.
-
-
-Assigning appropriate permissions.
-
-
-Reviewing moderation actions.
-
-
-Complying with privacy laws.
-
-
-Moderation decisions remain the responsibility of the server staff.
-
-7. Prohibited Use
-Users may not use the Bot for:
-
-
-Illegal activities
-
-
-Harassment or discrimination
-
-
-Abuse of moderation systems
-
-
-Privacy violations
-
-
-Circumventing Discord policies
-
-
-Misuse may result in suspension or removal of access.
-
-8. Cross-Server Security Alerts
-When enabled, HighSecurity Bot may generate security alerts regarding users previously moderated on other HighSecurity servers.
-Example:
-
-"Previously banned on 2 other HighSecurity servers."
-
-To protect privacy:
-
-
-Server names are not disclosed.
-
-
-Private messages are never shared.
-
-
-Only moderation-related information is used.
-
-
-These alerts are intended solely for security purposes.
-
-9. Intellectual Property
-The HighSecurity Bot, its code, branding, and associated materials remain the property of NitroXHost unless otherwise specified.
-Unauthorized copying, resale, or redistribution is prohibited.
-
-10. Limitation of Liability
-NitroXHost and the developers of HighSecurity Bot shall not be liable for:
-
-
-Moderation errors
-
-
-Data loss
-
-
-Discord outages
-
-
-Misconfiguration by server administrators
-
-
-Damages arising from use of the Bot
-
-
-The Service is provided "as is" without warranties of any kind.
-
-11. Termination
-We reserve the right to suspend or terminate access to the Bot for:
-
-
-Abuse
-
-
-Violations of these Terms
-
-
-Illegal activities
-
-
-Actions that threaten the security or integrity of the Service
-
-
-
-12. Changes to Terms
-These Terms may be updated at any time.
-Continued use of the Bot after updates constitutes acceptance of the revised Terms.
-
-HighSecurity Bot – Privacy Policy
-Last Updated: June 16, 2026
-This Privacy Policy explains how HighSecurity Bot processes information.
-
-1. Data We Process
-The Bot may process the following data:
-Discord Information
-
-
-User IDs
-
-
-Guild (Server) IDs
-
-
-Channel IDs
-
-
-Role IDs
-
-
-Message IDs
-
-
-Moderation Data
-
-
-Warnings
-
-
-Mutes
-
-
-Temporary bans
-
-
-Permanent bans
-
-
-Security logs
-
-
-Configuration Data
-
-
-Server settings
-
-
-Anti-spam settings
-
-
-Anti-raid settings
-
-
-Log channel configuration
-
-
-Word filters
-
-
-Invite filters
-
-
-
-2. Message Processing
-The Bot may inspect message content solely for moderation purposes, including:
-
-
-Spam detection
-
-
-Invite detection
-
-
-Blocked word filtering
-
-
-Emoji limit enforcement
-
-
-Regular chat messages are not permanently stored unless required for moderation, security, or logging purposes.
-
-3. Cross-Server Security Alerts
-When a user is banned through HighSecurity Bot, a security record may be stored.
-Other participating servers may receive alerts such as:
-
-"Previously banned on 2 other HighSecurity servers."
-
-To protect privacy:
-
-
-Server names are hidden.
-
-
-Private messages are never stored.
-
-
-Only moderation events are processed.
-
-
-
-4. Data Retention
-Data is retained only as long as necessary for:
-
-
-Security
-
-
-Moderation
-
-
-Bot functionality
-
-
-Server owners may request deletion of their server data using:
-/deletedata
-Certain data may be automatically removed after subscription expiration or inactivity.
-
-5. Data Sharing
-We do not sell user data.
-We do not share personal data with third parties except where legally required.
-Information is used solely for operating and improving HighSecurity Bot.
-
-6. Security Measures
-We implement reasonable technical and organizational measures to protect stored information.
-However, no system can guarantee 100% security.
-
-7. User Rights (GDPR/Privacy Rights)
-Depending on applicable law, users or server owners may request:
-
-
-Access to stored data
-
-
-Correction of inaccurate data
-
-
-Deletion of server data
-
-
-Information regarding data processing
-
-
-
-8. Children's Privacy
-The Bot is not intended for users under the minimum age required by Discord's Terms of Service.
-
-9. Contact Information
-For support, privacy requests, or legal inquiries:
 NitroXHost
-HighSecurity Bot Support
-
-By using HighSecurity Bot, you acknowledge that you have read and understood these Terms of Service and Privacy Policy.
+Email: [info@nitroxhost.com](mailto:info@nitroxhost.com)
+Jurisdiction: The Netherlands
 
 ---------------------------------------------------------------
 
