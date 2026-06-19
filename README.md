@@ -1,425 +1,604 @@
-Terms of Service – HighSecurity Bot
+HighSecurity Bot – Terms of Service
 
-Last Updated: June 18, 2026
+Last Updated: June 2026
 
-1. Definitions
+1. Acceptance of Terms
 
-HighSecurity Bot ("the Service") is a Discord security and moderation bot developed and operated by NitroXHost.
+By inviting, installing, accessing, or using HighSecurity Bot, you agree to be bound by these Terms of Service.
 
-By installing, using, subscribing to, or interacting with HighSecurity Bot, you agree to these Terms of Service.
+If you do not agree with these Terms, you must discontinue use of the service and remove the bot from your Discord server.
 
 2. Service Description
 
-HighSecurity Bot provides security, moderation, and community management features, including but not limited to:
+HighSecurity Bot is a Discord moderation and security platform that provides features including:
 
+Moderation tools
+Security alerts
+Verification systems
+Ticket systems
+User reporting systems
 Anti-spam protection
 Anti-raid protection
-Moderation tools
-Verification systems
-Ticket management
-Logging and monitoring
-Word filtering
-Image and media protection
-Security alerts
-Additional management and protection features
+Community safety features
 
-NitroXHost reserves the right to add, modify, improve, or remove features at any time.
+The service is provided on an "as-is" and "as-available" basis.
 
-3. Subscriptions and Payments
+3. Eligibility
 
-Certain features or access to the Service may require an active subscription.
+Users must comply with:
 
-Subscription fees must be paid in advance according to the selected billing period.
+Discord Terms of Service
+Discord Community Guidelines
+Applicable laws and regulations
 
-Failure to pay may result in suspension, limitation, or termination of access to the Service.
+HighSecurity reserves the right to restrict access to users or servers that violate these requirements.
 
-4. Price Changes
+4. Global Security Reports
 
-NitroXHost reserves the right to modify subscription pricing when necessary due to:
+HighSecurity allows authorized server staff to submit reports regarding users.
 
-Development costs
-Infrastructure and hosting expenses
-Maintenance costs
-New features and improvements
-Market conditions
-Legal or tax-related changes
+Reports are reviewed before they affect the HighSecurity Security Network.
 
-Users may be notified of significant pricing changes through available communication channels, including:
+Approved reports may contribute to a user's risk level.
 
-Discord Direct Messages
-The official NitroXHost Discord server
-The NitroXHost website
-Dashboard notifications
-Other available communication methods
+Rejected reports do not affect risk levels.
 
-Continued use of the Service after a pricing change becomes effective constitutes acceptance of the new pricing.
+HighSecurity does not automatically ban users across servers.
 
-5. Service Availability
+Individual server owners remain responsible for moderation decisions within their own communities.
 
-While NitroXHost strives to maintain reliable service availability, uninterrupted operation is not guaranteed.
+5. Risk Levels
 
-Maintenance, updates, security improvements, outages, third-party service failures, or unforeseen circumstances may result in temporary interruptions.
+Approved reports may contribute to a user's risk level within the HighSecurity Security Network.
 
-6. Acceptable Use
+Risk levels are intended as informational security indicators only and do not constitute proof of misconduct.
 
-You agree not to use HighSecurity Bot for:
+Server owners remain solely responsible for actions taken based on security alerts.
 
-Illegal activities
-Violations of Discord Terms of Service
-Violations of Discord Community Guidelines
-Abuse of security or moderation systems
-Attempts to exploit, disrupt, or bypass Service functionality
-7. Suspension and Termination
+6. User Responsibilities
 
-NitroXHost reserves the right to suspend or terminate access to the Service at its discretion in cases involving:
+Users agree to:
+
+Provide accurate information
+Submit truthful reports
+Respect other users
+Use moderation features responsibly
+
+False reports, malicious reporting, harassment, or abuse of the reporting system may result in suspension from the service.
+
+7. Prohibited Use
+
+Users may not:
+
+Submit intentionally false reports
+Upload illegal content
+Distribute malware
+Abuse moderation tools
+Attempt to exploit the service
+Interfere with platform operations
+
+Violations may result in suspension or termination of access.
+
+8. Moderation & Review Decisions
+
+HighSecurity reviewers may:
+
+Approve reports
+Reject reports
+Reevaluate reports
+Remove reports
+Adjust risk classifications
+
+Review decisions are made at the sole discretion of the HighSecurity Review Team.
+
+9. Premium Features
+
+Certain features may require a paid subscription.
+
+Premium features may change, expand, or be modified at any time.
+
+Premium access is granted only while the subscription remains active.
+
+10. Payments & Subscriptions
+
+By purchasing a subscription, you agree to the pricing and billing terms displayed at the time of purchase.
+
+Subscriptions may renew automatically unless cancelled before the next billing cycle.
+
+Premium subscriptions are linked to the server unless otherwise specified.
+
+11. Refund Policy
+
+Due to the nature of digital services, purchases are generally non-refundable once access to premium features has been granted.
+
+Refund requests may be reviewed on a case-by-case basis.
+
+No refunds are guaranteed.
+
+12. Failed Payments
+
+If a payment cannot be processed:
+
+Premium access may be suspended
+Premium features may become unavailable
+Services may be restricted until payment is resolved
+13. Chargebacks & Payment Disputes
+
+Fraudulent chargebacks or payment disputes may result in:
+
+Immediate service suspension
+Termination of access
+Permanent removal from the HighSecurity Network
+
+Relevant transaction records may be provided to payment processors when necessary.
+
+14. Data Retention
+
+If HighSecurity Bot is removed from a server or a premium subscription expires and is not renewed, server-related data may be retained for up to seven (7) days.
+
+This retention period exists to allow:
+
+Accidental bot removals to be reversed
+Subscription renewals
+Service restoration
+
+After seven (7) days, all server-related data may be permanently deleted.
+
+Deleted data cannot be recovered.
+
+15. Availability
+
+HighSecurity does not guarantee uninterrupted service.
+
+Maintenance, updates, outages, or technical issues may temporarily affect availability.
+
+16. Intellectual Property
+
+All software, branding, code, systems, documentation, and related materials remain the property of HighSecurity and/or NitroXHost.
+
+No ownership rights are transferred through use of the service.
+
+17. Limitation of Liability
+
+To the maximum extent permitted by law:
+
+HighSecurity, NitroXHost, developers, reviewers, affiliates, and partners shall not be liable for:
+
+Data loss
+Financial loss
+Community disputes
+Moderation decisions
+Service interruptions
+Third-party actions
+
+Use of the service is entirely at your own risk.
+
+18. Suspension & Termination
+
+HighSecurity may suspend or terminate access at any time for:
 
 Abuse
 Fraud
-Security threats
+Security concerns
 Violations of these Terms
-8. Limitation of Liability
+19. Changes to Terms
 
-HighSecurity Bot is provided on an "as available" and "as is" basis.
+These Terms may be updated periodically.
 
-NitroXHost shall not be liable for:
+Continued use of HighSecurity after updates constitutes acceptance of the revised Terms.
 
-Data loss
-Discord server loss
-Revenue loss
-Indirect damages
-Consequential damages
-Actions of users or third parties
+20. Contact
 
-To the maximum extent permitted by law, total liability shall not exceed the amount paid by the customer during the previous twelve (12) months.
+For questions regarding these Terms, please contact the HighSecurity Support Team through the official support server.
 
-9. Changes to the Service
-
-NitroXHost may update, modify, discontinue, or replace any aspect of the Service at any time without prior notice.
-
-10. Governing Law
-
-These Terms shall be governed by and interpreted under the laws of The Netherlands.
-
-Any disputes arising from the use of the Service shall be submitted to the competent courts of The Netherlands.
 
 
 ---------------------------------------------------------------
 
-Privacy Policy – HighSecurity Bot
+HighSecurity Bot – Privacy Policy
 
-Last Updated: June 18, 2026
+Last Updated: June 2026
 
 1. Introduction
 
-NitroXHost respects the privacy of all users and only processes data necessary for the operation, security, moderation, and functionality of HighSecurity Bot.
+This Privacy Policy explains how HighSecurity Bot collects, processes, stores, and protects information.
 
-2. Information We Process
+By using HighSecurity Bot, you agree to this Privacy Policy.
 
-HighSecurity Bot may process the following information:
+2. Information We Collect
 
-Discord User IDs
-Discord Server IDs
-Discord Channel IDs
-Discord Role IDs
-Moderation records
-Verification records
+HighSecurity may process:
+
+Discord Information
+User IDs
+Guild IDs
+Channel IDs
+Role IDs
+Moderation Data
+Warnings
+Mutes
+Bans
+Rule violations
 Ticket records
-Security logs
-Audit logs
-Subscription-related information
+Security Report Data
+Reported user IDs
+Report reasons
+Review outcomes
+Reviewer notes
+Risk classifications
+Evidence
 
-The bot does not process more data than necessary to provide its services.
+Users may submit screenshots or evidence when creating reports.
+
+Evidence may be stored for review, moderation, auditing, and abuse-prevention purposes.
 
 3. Purpose of Processing
 
-Data is processed solely for:
+Information is processed to:
 
-Moderation
-Security protection
-Verification systems
-Ticket management
-Logging and monitoring
-Abuse prevention
-Service operation
-Customer support
-4. Information We Do Not Collect
+Operate the service
+Maintain moderation systems
+Review reports
+Improve community safety
+Prevent abuse
+Provide support
+Maintain system security
+4. Global Security Network
 
-HighSecurity Bot:
+Approved reports may contribute to security alerts and risk classifications.
 
-❌ Does not sell personal information
-
-❌ Does not read private direct messages between users
-
-❌ Does not collect passwords
-
-❌ Does not store payment card information
-
-❌ Does not share private conversations
-
-Payment information is handled exclusively by authorized payment providers.
+Only information relevant to community safety is processed for this purpose.
 
 5. Data Sharing
 
-NitroXHost does not sell or rent user data.
+HighSecurity does not sell personal information.
 
-Information may only be shared when:
+Information may be shared only when necessary to:
 
-Required by law
-Necessary for payment processing
-Necessary for hosting, infrastructure, or technical operations
-Required to protect the security of the Service
-6. Data Retention
+Provide security alerts
+Operate HighSecurity features
+Comply with legal obligations
+Protect users and communities
+6. Payment Information
 
-Information is retained only as long as reasonably necessary to operate the Service.
+HighSecurity does not directly store payment card information.
 
-Server owners may request deletion of server-related data.
+Payments may be processed through third-party payment providers such as:
 
-Certain information may be automatically removed following subscription cancellation, bot removal, or extended inactivity.
+Stripe
+PayPal
+Other authorized processors
 
-7. Security Measures
+These providers maintain their own privacy policies.
 
-NitroXHost implements reasonable technical and organizational measures designed to protect information against:
+7. Data Retention & Deletion
 
-Unauthorized access
-Loss
-Misuse
-Alteration
-Disclosure
+Server-related data may be retained while the service remains active.
 
-No online system can guarantee absolute security.
+If:
 
-8. User Rights
+The bot is removed from a server, or
+A subscription expires and is not renewed,
 
-Where applicable under relevant privacy laws, users may request:
+server-related data may be retained for up to seven (7) days.
 
-Access to their data
+After seven (7) days:
+
+Data may be permanently deleted
+Deleted data cannot be recovered
+Restoration is no longer guaranteed
+
+Data subject to legal obligations may be retained for longer where required by law.
+
+8. Data Security
+
+Reasonable technical and organizational measures are used to protect stored information.
+
+However, no system can guarantee absolute security.
+
+9. User Rights
+
+Where applicable under local law, users may request:
+
+Information about stored data
 Correction of inaccurate information
-Deletion of applicable data
-Objection to certain processing activities
+Deletion of eligible data
 
-Requests may be submitted to:
+Requests may be subject to verification and legal limitations.
 
-📧 info@nitroxhost.com
+10. Third-Party Services
 
-9. Policy Changes
+HighSecurity relies on third-party services including:
 
-NitroXHost reserves the right to update or modify this Privacy Policy at any time.
+Discord
+Hosting providers
+Database providers
+Payment processors
 
-Important changes may be communicated through:
+These providers maintain independent privacy policies.
 
-Discord Direct Messages
-The official NitroXHost Discord server
-The NitroXHost website
-Dashboard notifications
-Other available communication channels
+11. Children's Privacy
 
-Continued use of the Service after changes become effective constitutes acceptance of the revised Privacy Policy.
+HighSecurity is not intended for individuals who do not meet Discord's minimum age requirements.
 
-10. Contact Information
+12. Changes to this Policy
 
-NitroXHost
-📧 info@nitroxhost.com
-🌍 The Netherlands
+This Privacy Policy may be updated periodically.
 
-HighSecurity Bot – Advanced Discord Security, Moderation, Verification, and Community Protection.
+Continued use of HighSecurity after updates constitutes acceptance of the revised Policy.
+
+13. Contact
+
+For privacy-related questions, data requests, or concerns, please contact the HighSecurity Support Team through the official support server.
 ---------------------------------------------------------------
 
-HighSecurity Bot Setup Guide
+# 🛡️ HighSecurity Bot – User Guide
 
-Follow these steps to properly configure HighSecurity Bot and unlock all security, moderation, verification, and ticket features.
+## What is HighSecurity Bot?
 
-Step 1 – Invite the Bot
+HighSecurity Bot is an advanced Discord security and moderation system designed to help protect communities from:
 
-Make sure the bot has the following permissions:
+* Scammers
+* Malicious users
+* Raids
+* Spam
+* Rule breakers
+* High-risk members
 
-✅ View Channels
-✅ Send Messages
-✅ Read Message History
-✅ Manage Messages
-✅ Manage Channels
-✅ Manage Roles
-✅ Moderate Members
-✅ Kick Members
-✅ Ban Members
-✅ Use Slash Commands
+Unlike traditional moderation bots, HighSecurity uses a review-based reporting system to help prevent false accusations and abuse.
 
-Important
+---
 
-The bot role must be positioned above:
+# 🌍 Global Security Network
 
-Verified
-Unverified
-Member Roles
+HighSecurity servers work together to improve community safety.
 
-Otherwise, the bot will not be able to assign or remove roles.
+When a user is reported and the report is approved by the HighSecurity Review Team, the user may receive a risk level within the HighSecurity Network.
 
-Step 2 – Configure a Log Channel
+Other servers can then see security warnings when that user joins.
 
-Create a channel:
+---
 
-#logs
+# 📊 Risk Levels
 
-Run:
+## 🟢 No Known Risk
 
-/setlogchannel channel:#logs
+The user has no approved reports.
 
-All moderation, security, and verification events will be logged here.
+Safe status.
 
-Step 3 – Enable the Verification System
+---
 
-Run:
+## 🟡 Low Risk
 
-/setupverification lock_server:true
+The user has 1 approved report.
 
-The bot will automatically create:
+Examples:
 
-#rules
-Verified
-Unverified
+* Suspicious behavior
+* Minor scam reports
+* Community concerns
 
-New members will automatically receive the Unverified role and will only be able to access the rules channel.
+---
 
-Step 4 – Configure Your Server Rules
+## 🟠 Medium Risk
 
-Run:
+The user has 2 approved reports.
 
-/setrules channel:#rules
+Examples:
 
-A popup window will appear.
+* Multiple complaints
+* Repeated suspicious activity
 
-Paste your server rules into the form.
+---
 
-Example:
+## 🔴 High Risk
 
-1. Respect everyone.
-2. No discrimination or hate speech.
-3. No spam.
-4. No scams or malicious links.
-5. No NSFW content.
-6. Follow staff instructions.
-7. Rule violations may result in bans.
+The user has 3 or more approved reports.
 
-The bot will automatically create a rules message with a green:
+Examples:
 
-✅ Accept Rules
+* Confirmed scams
+* Fraud
+* Phishing attempts
+* Serious community violations
 
-button.
+---
 
-When users click the button:
+# ⚠️ Important
 
-Unverified Removed
-↓
-Verified Added
-↓
-Full Server Access Granted
-Step 5 – Configure the Ticket System
+HighSecurity does NOT automatically ban users.
 
-Create a staff role:
+Every server remains in full control of its own moderation decisions.
 
-Staff
+HighSecurity provides information and warnings only.
 
-Run:
+Server staff decide what action to take.
 
-/setticketpanel
+---
 
-Select:
+# 📸 Reporting a User
 
-Channel: #tickets
-Role: @Staff
+If you believe a user has violated community trust, you can submit a report.
 
-Members will now be able to create private support tickets.
+## Command
 
-Step 6 – Configure Anti-Spam Protection
+```text
+/reportuser
+```
 
-Run:
+Required:
 
-/setspam
+* User
+* Reason
 
-Example configuration:
+Optional:
 
-5 messages
-10 seconds
-Punishment: mute
-10 minutes
-
-Users who exceed the limit will automatically be punished.
-
-Step 7 – Configure Image Protection
-
-Run:
-
-/setimagelimit
-
-Example configuration:
-
-10 images
-10 minutes
-Punishment: mute
-10 minutes
-
-This helps prevent image flooding and media spam.
-
-Step 8 – Configure Anti-Raid Protection
-
-Run:
-
-/setraid
+* Screenshot evidence
 
 Example:
 
-10 joins
-30 seconds
-Action: lockdown
+```text
+/reportuser
+User: @ExampleUser
+Reason: Marketplace scam attempt
+Evidence: Screenshot
+```
 
-The bot will automatically respond to suspicious join activity.
+Reports are sent for manual review.
 
-Step 9 – Rule Violation System
+---
 
-When a member breaks the server rules, moderators can run:
+# 📋 Report Status
 
-/rulesviolation user:@User reason:Rule Violation
+## Command
 
-Violation System:
+```text
+/reportstatus
+```
 
-First Violation
-Verified Removed
-Unverified Added
-User Must Accept Rules Again
-Second Violation
-Verified Removed
-Unverified Added
-User Must Accept Rules Again
-Third Violation
-Permanent Ban
+This command allows staff to view:
 
-This ensures members repeatedly review and accept the server rules after misconduct.
+* Current report status
+* Review result
+* Review notes
+* Evidence information
 
-Step 10 – Test Everything
+Possible statuses:
 
-Use a second Discord account and verify that:
+* Pending
+* Approved
+* Rejected
 
-✅ New members only see #rules
-✅ New members receive Unverified automatically
-✅ Clicking the green ✅ button grants Verified
-✅ Full server access is unlocked after verification
-✅ Tickets can be created successfully
-✅ Anti-spam protection works correctly
-✅ Rule violations work correctly
-✅ Logs are recorded in the log channel
+---
 
-🔒 Your Server Is Now Protected
+# 📈 Risk Check
 
-Once these steps are completed, HighSecurity Bot will provide:
+## Command
 
-✅ Verification System
-✅ Ticket System
-✅ Anti-Spam Protection
-✅ Anti-Raid Protection
-✅ Image Spam Protection
-✅ Word Filtering
-✅ Moderation Tools
-✅ Security Logging
-✅ Rule Violation Tracking
-✅ Automated Community Protection
+```text
+/riskcheck
+```
 
-Developed by NitroXHost
+Displays:
+
+* Current risk level
+* Number of approved reports
+* Latest report reason
+* Latest alert date
+
+Example:
+
+```text
+Risk Level: 🟠 Medium Risk
+Approved Reports: 2
+Latest Reason: Marketplace Scam
+```
+
+---
+
+# 🔔 Security Alerts
+
+When a user joins a server, HighSecurity may display a warning if approved reports exist.
+
+Example:
+
+```text
+⚠️ HighSecurity Security Alert
+
+User: ExampleUser
+
+Risk Level: 🔴 High Risk
+
+Approved Reports: 3
+
+Latest Reason:
+Confirmed Marketplace Scam
+
+Recommendation:
+Review this member before granting access.
+```
+
+---
+
+# 📜 Why Reports Are Reviewed
+
+Reports are manually reviewed to help prevent:
+
+* False accusations
+* Personal disputes
+* Abuse of the reporting system
+* Fake evidence
+
+Only approved reports contribute to risk levels.
+
+---
+
+# 🎫 Ticket System
+
+Some servers using HighSecurity may provide support tickets.
+
+Available features include:
+
+* Private support channels
+* Staff assistance
+* Community support requests
+
+---
+
+# 📖 Rules & Verification
+
+Many servers using HighSecurity may require:
+
+* Rule acceptance
+* Verification completion
+* Community onboarding
+
+These systems help improve server security and reduce abuse.
+
+---
+
+# 🛡️ Anti-Spam Protection
+
+HighSecurity can automatically detect:
+
+* Message spam
+* Flooding
+* Repeated content
+* Suspicious message activity
+
+This helps maintain a clean and safe community environment.
+
+---
+
+# 🚨 Anti-Raid Protection
+
+HighSecurity can assist communities against:
+
+* Mass joins
+* Bot raids
+* Coordinated attacks
+* Automated spam waves
+
+---
+
+# 🔒 Privacy & Fairness
+
+HighSecurity is designed around fairness and evidence.
+
+A user is never added to the security network simply because someone makes a report.
+
+Reports must be reviewed before they affect risk levels.
+
+This helps create a safer and more trustworthy moderation system for everyone.
+
+---
+
+# 💙 Thank You
+
+Thank you for using HighSecurity Bot.
+
+Our goal is simple:
+
+Create safer Discord communities through transparency, evidence-based moderation, and responsible security reporting.
+
